@@ -1,4 +1,4 @@
-![example workflow](https://github.com/enrik00/dw-demo-app/actions/workflows/build/badge.svg)
+![example workflow](https://github.com/enrik00/dw-demo-app/actions/workflows/build.yml/badge.svg)
 
 # DropWizard Demo Application
 
